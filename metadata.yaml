@@ -1,5 +1,5 @@
 homepage: "https://www.xapads.com",
 versions: 1
 versions:
-  - sha: 2c9ff1d76ac4cc3ab0f61582c1d00306d0ade888
-    changeNotes: Ready-to-launch version
+  - sha: 
+    changeNotes: Initial Version
