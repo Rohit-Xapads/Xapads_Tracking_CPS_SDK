@@ -13,7 +13,7 @@ Welcome Advertiser,
 
 Thanks for connecting to Xapads. This Google Tag Manager template provides an easy way to integrate [Xapads](https://www.xapads.com/) Attribution Pixel on your website. It will track users’ action on your website and send conversion tracking information to the Xapads tracking servers.
 
-When the template fires, the Xapads server receives a request with the information on this action (order ID, commission amount, sale amount, currency, country, product type, category).
+When the template fires, the Xapads server receives a request with the information on this action (Advertiser UID, order ID, commission amount, sale amount, currency, country, product type, category).
 
 
 ## <a id="contents"></a>Contents
