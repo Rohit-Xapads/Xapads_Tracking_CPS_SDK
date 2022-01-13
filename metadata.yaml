@@ -1,4 +1,4 @@
-homepage: "https://www.xapads.com",
+homepage: "https://www.xapads.com"
 versions:
   - sha: b5d43c6f47fd4c5a25c1e1ef3c41e1158cf5176b
     changeNotes: Update metadata.yaml
