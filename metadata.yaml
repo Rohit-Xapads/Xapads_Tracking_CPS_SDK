@@ -1,6 +1,6 @@
 homepage: "https://www.xapads.com"
 versions:
-  - sha: b5d43c6f47fd4c5a25c1e1ef3c41e1158cf5176b
+  - sha: 15b4d0cf1a6879dda7fa12ae43b3a5d7c8a6b42a
     changeNotes: Update metadata.yaml
   - sha: 1e4cb7beed16b5ab84b1f15485d25b6b46ecc18d
     changeNotes: Initial Version
